@@ -2,7 +2,7 @@
 
 Ther ewil lbe systems stuff on here
 
-![OLLIE(ollie.jpg)
+![OLLIE](ollie.jpg)
 
 
 [[SiriusInsight-Technology-Wiki]]
