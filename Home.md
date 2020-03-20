@@ -2,4 +2,4 @@
 
 it will be a list of the systems
 
-[[LinkedPage.md]]
+[[LinkedPage]]
