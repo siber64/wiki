@@ -1,2 +1,2 @@
-# New Wiki
+## New Wiki
 This is the wiki page
